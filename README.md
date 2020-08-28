@@ -52,4 +52,4 @@ nsml submit {SESSION} {CHECKPOINT}
 ``` 
 
 ## Contributor
-임도연
+NAVER AI RUSH TEAM, 임도연, 최연웅
